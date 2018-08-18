@@ -1,4 +1,6 @@
 #How to upload files to flash file system:
+
+
 This uses mkspiffs to upload files to esp flash file system
 Command:
 E:\debojit\electronics project\2016\ide\eclipseArduino\arduinoPlugin\tools\esp8266\mkspiffs\0.2.0>mkspiffs.exe -c "E:\debojit\electronics project\2016\esp8266\esp data loader\data" -p 256 -b 8192 -s 3125248 "E:\debojit\electronics project\2016\esp8266\esp data loader\data\your_project.spiffs.bin"
