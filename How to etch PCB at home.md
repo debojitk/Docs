@@ -1,9 +1,9 @@
 How to make PCB at home?
 -----------------------
-1.	Get the print done on glossy 150 gsm paper. Avoid magazine papers.
-a.	Use laser toner with at least 600 dpi resolution
-b.	Use darkest mode of printer, disable toner save option.
-2.	Clean the pcb with steel wool or scotch brite with pril or vim bar. It should be shiny enough with no obstructions or patch. Clean and dry it with kitchen paper towel.
+1. Get the print done on glossy 150 gsm paper. Avoid magazine papers.
+a. Use laser toner with at least 600 dpi resolution
+b. Use darkest mode of printer, disable toner save option.
+2. Clean the pcb with steel wool or scotch brite with pril or vim bar. It should be shiny enough with no obstructions or patch. Clean and dry it with kitchen paper towel.
 3.	Make sure not to touch either the copper side or the paper with print with finger/thumb.
 4.	Heat the iron up to 120c, Put the thermostat switch to 75% of max setting for synthetic temp setting.
 5.	Heat the pcb with iron with copper side up. Once the pcb is hot put the printer paper with print facing on the pcb copper. It should immediately stick to the pcb copper.
