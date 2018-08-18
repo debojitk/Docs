@@ -1,6 +1,6 @@
 Hysiry Devices
 --------------
-For all Hysiry devices flash mode settings are:
+For all Hysiry ESP8266 devices, flash mode settings are:
 
 Upload mode-DIO. In Arduino IDE always select Node MCU 1.0 (and not 0.9). It uses DIO mode by default.
 Speed-40M
