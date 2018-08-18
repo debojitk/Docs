@@ -25,7 +25,10 @@ In Eclipse -> Run -> External Tools -> External Tools Configurations:
     Working Directory: ${workspace_loc:/your_project_folder}
     Arguments: -cd none -cb 115200 -cp /dev/ttyUSB0 -vv -ca 0x100000 -cf ${workspace_loc}/your_project_folder/your_project.spiffs.bin
 
-How to run the upload: get into flash upload mode. In nodemcu press and hold flash , while holding flash press reset. Now it is in flash mode. Now it can be run to upload the flash bin file.
+How to run the upload: 
+----------------------
+Get into flash upload mode. 
+In nodemcu press and hold flash , while holding flash press reset. Now it is in flash mode. Now it can be run to upload the flash bin file.
 Note use esptool 0.4.9 to show a percentage completion
     Create a "Wipe Flash" external tool configuration:
 
