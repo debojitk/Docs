@@ -15,4 +15,5 @@ Hardware fix for automatic flash mode enter:
 -------------------------------------------
 
 Add a 2.2uf capacitor between EN and GND would fix the problem.
+
 Ref=https://github.com/espressif/esptool/issues/136
