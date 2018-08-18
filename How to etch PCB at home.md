@@ -1,4 +1,5 @@
 How to make PCB at home?
+-----------------------
 1.	Get the print done on glossy 150 gsm paper. Avoid magazine papers.
 a.	Use laser toner with at least 600 dpi resolution
 b.	Use darkest mode of printer, disable toner save option.
